@@ -1,0 +1,90 @@
+{
+  "configVersion": 1,
+  "timestamp": 1571701985181,
+  "index": "netflixminiapp/index.html",
+  "assetGroups": [
+    {
+      "name": "NetflixMiniApp",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "netflixminiapp/favicon.ico",
+        "netflixminiapp/index.html"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "netflixminiapp/assets/fonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.woff2",
+        "netflixminiapp/assets/fonts/roboto-v18-latin-regular.woff2",
+        "netflixminiapp/assets/i18n/en-US.json",
+        "netflixminiapp/assets/i18n/fr-FR.json",
+        "netflixminiapp/assets/icons/android-chrome-192x192.png",
+        "netflixminiapp/assets/icons/android-chrome-384x384.png",
+        "netflixminiapp/assets/icons/android-chrome-512x512.png",
+        "netflixminiapp/assets/icons/apple-touch-icon.png",
+        "netflixminiapp/assets/icons/browserconfig.xml",
+        "netflixminiapp/assets/icons/favicon-16x16.png",
+        "netflixminiapp/assets/icons/favicon-32x32.png",
+        "netflixminiapp/assets/icons/favicon.ico",
+        "netflixminiapp/assets/icons/icone.png",
+        "netflixminiapp/assets/icons/mstile-150x150.png",
+        "netflixminiapp/assets/icons/netflix-logo.png",
+        "netflixminiapp/assets/icons/safari-pinned-tab.svg",
+        "netflixminiapp/assets/icons/site.webmanifest",
+        "netflixminiapp/assets/images/demo.jpg",
+        "netflixminiapp/assets/images/no_poster_available.jpg",
+        "netflixminiapp/assets/scss/custom_theme.scss",
+        "netflixminiapp/assets/scss/palette.scss"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "netflixminiapp/assets/fonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.woff2": "308ee3580a4a34bd230025d460762d53b5344efc",
+    "netflixminiapp/assets/fonts/roboto-v18-latin-regular.woff2": "06db651cdf354c64a7383ea9c77024ef4fb4cef8",
+    "netflixminiapp/assets/i18n/en-US.json": "4d8644c3a4eaa6a88ac4af57634fb537168cfc84",
+    "netflixminiapp/assets/i18n/fr-FR.json": "9d4bce9fc1dce1182bc08dedcb9f1959b112bff3",
+    "netflixminiapp/assets/icons/android-chrome-192x192.png": "fcc045b5eb9a7cebfb6b19ced195c3124f339769",
+    "netflixminiapp/assets/icons/android-chrome-384x384.png": "47e5cb00ec0807159cc51a86732fc5f300537500",
+    "netflixminiapp/assets/icons/android-chrome-512x512.png": "9aa23cc37f899d50bc8d7bab0760f8b413d6182e",
+    "netflixminiapp/assets/icons/apple-touch-icon.png": "b8b63f081cdda2610bad3392a6f704240a7e0fd6",
+    "netflixminiapp/assets/icons/browserconfig.xml": "c720323f98242fe63864ebf52fb87745b51eff61",
+    "netflixminiapp/assets/icons/favicon-16x16.png": "64d57cff56fa9f12ecfec378999575daf38eee2b",
+    "netflixminiapp/assets/icons/favicon-32x32.png": "2783bc8b2e5ee7e6979d3bebfd97bb78bae25abd",
+    "netflixminiapp/assets/icons/favicon.ico": "323bfcb951bb8f7320875c7d73bd853ab5838130",
+    "netflixminiapp/assets/icons/icone.png": "53d93ab93470b094eddd2998e3bb420e72015b9d",
+    "netflixminiapp/assets/icons/mstile-150x150.png": "a38cda5a56b18dd2c888b917f34722054d91d87d",
+    "netflixminiapp/assets/icons/netflix-logo.png": "6a76331cec69c75c408443f349a6c0d14934ecd3",
+    "netflixminiapp/assets/icons/safari-pinned-tab.svg": "82b2fad572fe684625e40b4ac4a53bcb95924c23",
+    "netflixminiapp/assets/icons/site.webmanifest": "4692d9966296525cc4f8b47c8212eda94924ed60",
+    "netflixminiapp/assets/images/demo.jpg": "6c2184d3739ea00b12bfb4216079c2d3a465dee5",
+    "netflixminiapp/assets/images/no_poster_available.jpg": "83a44c16576c0f0933b95d8c0ad2810a65e4c210",
+    "netflixminiapp/assets/scss/custom_theme.scss": "06f951f887b23a0fb8fca15ba8eb3202edfd27dd",
+    "netflixminiapp/assets/scss/palette.scss": "eb34eb366a2c4470697d59740272775a8dd04855",
+    "netflixminiapp/favicon.ico": "8746454a1b62457effa83d6791fcd068c281db17",
+    "netflixminiapp/index.html": "fb9962931ec82da13e31c95404cadcbdb4f16f11"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
